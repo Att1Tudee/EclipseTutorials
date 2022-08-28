@@ -5,6 +5,7 @@ public class LearnJava3 {
 		// TODO Auto-generated method stub
 		Animal a = new Animal();
 		a.doStuff();
+		
 	}
 
 }
